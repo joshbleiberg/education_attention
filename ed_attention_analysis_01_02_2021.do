@@ -25,7 +25,7 @@ cls
 //Creating Log File
 log using "ed_attention_log", replace
 //Reading in Master Data File
-use "ed_attention_master.dta", clear
+use "ed_attention_master_01_02_2021.dta", clear
 ********************************************************************************
 ********************************************************************************
 //Analysis
